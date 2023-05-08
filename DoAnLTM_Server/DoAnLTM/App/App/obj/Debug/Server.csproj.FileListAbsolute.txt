@@ -1,0 +1,24 @@
+C:\Users\ROG\Desktop\DoAnLTM_16_4_Server\DoAnLTM\App\App\bin\Debug\App.exe.config
+C:\Users\ROG\Desktop\DoAnLTM_16_4_Server\DoAnLTM\App\App\bin\Debug\App.exe
+C:\Users\ROG\Desktop\DoAnLTM_16_4_Server\DoAnLTM\App\App\bin\Debug\App.pdb
+C:\Users\ROG\Desktop\DoAnLTM_16_4_Server\DoAnLTM\App\App\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\ROG\Desktop\DoAnLTM_16_4_Server\DoAnLTM\App\App\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\ROG\Desktop\DoAnLTM_16_4_Server\DoAnLTM\App\App\obj\Debug\App.FormConnect.resources
+C:\Users\ROG\Desktop\DoAnLTM_16_4_Server\DoAnLTM\App\App\obj\Debug\App.Main.resources
+C:\Users\ROG\Desktop\DoAnLTM_16_4_Server\DoAnLTM\App\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\ROG\Desktop\DoAnLTM_16_4_Server\DoAnLTM\App\App\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\ROG\Desktop\DoAnLTM_16_4_Server\DoAnLTM\App\App\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\DoAnLTM_16_4_Server\DoAnLTM\App\App\obj\Debug\App.exe
+C:\Users\ROG\Desktop\DoAnLTM_16_4_Server\DoAnLTM\App\App\obj\Debug\App.pdb
+C:\Users\ROG\Desktop\Nam3\Ki2\Lập trình mạng\DoAnLTM\DoAnLTM\DoAnLTM_16_4_Server\DoAnLTM\App\App\bin\Debug\App.exe.config
+C:\Users\ROG\Desktop\Nam3\Ki2\Lập trình mạng\DoAnLTM\DoAnLTM\DoAnLTM_16_4_Server\DoAnLTM\App\App\bin\Debug\App.exe
+C:\Users\ROG\Desktop\Nam3\Ki2\Lập trình mạng\DoAnLTM\DoAnLTM\DoAnLTM_16_4_Server\DoAnLTM\App\App\bin\Debug\App.pdb
+C:\Users\ROG\Desktop\Nam3\Ki2\Lập trình mạng\DoAnLTM\DoAnLTM\DoAnLTM_16_4_Server\DoAnLTM\App\App\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\ROG\Desktop\Nam3\Ki2\Lập trình mạng\DoAnLTM\DoAnLTM\DoAnLTM_16_4_Server\DoAnLTM\App\App\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\ROG\Desktop\Nam3\Ki2\Lập trình mạng\DoAnLTM\DoAnLTM\DoAnLTM_16_4_Server\DoAnLTM\App\App\obj\Debug\App.FormConnect.resources
+C:\Users\ROG\Desktop\Nam3\Ki2\Lập trình mạng\DoAnLTM\DoAnLTM\DoAnLTM_16_4_Server\DoAnLTM\App\App\obj\Debug\App.Main.resources
+C:\Users\ROG\Desktop\Nam3\Ki2\Lập trình mạng\DoAnLTM\DoAnLTM\DoAnLTM_16_4_Server\DoAnLTM\App\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\ROG\Desktop\Nam3\Ki2\Lập trình mạng\DoAnLTM\DoAnLTM\DoAnLTM_16_4_Server\DoAnLTM\App\App\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\ROG\Desktop\Nam3\Ki2\Lập trình mạng\DoAnLTM\DoAnLTM\DoAnLTM_16_4_Server\DoAnLTM\App\App\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\Nam3\Ki2\Lập trình mạng\DoAnLTM\DoAnLTM\DoAnLTM_16_4_Server\DoAnLTM\App\App\obj\Debug\App.exe
+C:\Users\ROG\Desktop\Nam3\Ki2\Lập trình mạng\DoAnLTM\DoAnLTM\DoAnLTM_16_4_Server\DoAnLTM\App\App\obj\Debug\App.pdb

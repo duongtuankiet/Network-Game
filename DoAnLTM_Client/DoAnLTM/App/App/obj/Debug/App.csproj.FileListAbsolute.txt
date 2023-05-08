@@ -1,0 +1,46 @@
+C:\Users\94ngu\OneDrive\Tài liệu\GitHub\DoAnLTM\App\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\94ngu\OneDrive\Tài liệu\GitHub\DoAnLTM\App\App\obj\Debug\App.csproj.SuggestedBindingRedirects.cache
+C:\Users\94ngu\OneDrive\Tài liệu\GitHub\DoAnLTM\App\App\obj\Debug\App.Main.resources
+C:\Users\94ngu\OneDrive\Tài liệu\GitHub\DoAnLTM\App\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\94ngu\OneDrive\Tài liệu\GitHub\DoAnLTM\App\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\94ngu\OneDrive\Tài liệu\GitHub\DoAnLTM\App\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\94ngu\OneDrive\Tài liệu\GitHub\DoAnLTM\App\App\bin\Debug\App.exe.config
+C:\Users\94ngu\OneDrive\Tài liệu\GitHub\DoAnLTM\App\App\bin\Debug\App.exe
+C:\Users\94ngu\OneDrive\Tài liệu\GitHub\DoAnLTM\App\App\bin\Debug\App.pdb
+C:\Users\94ngu\OneDrive\Tài liệu\GitHub\DoAnLTM\App\App\obj\Debug\App.exe
+C:\Users\94ngu\OneDrive\Tài liệu\GitHub\DoAnLTM\App\App\obj\Debug\App.pdb
+C:\Users\ROG\Desktop\Nam3\Ki2\DoAnLTM\App\App\bin\Debug\App.exe.config
+C:\Users\ROG\Desktop\Nam3\Ki2\DoAnLTM\App\App\bin\Debug\App.exe
+C:\Users\ROG\Desktop\Nam3\Ki2\DoAnLTM\App\App\bin\Debug\App.pdb
+C:\Users\ROG\Desktop\Nam3\Ki2\DoAnLTM\App\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\ROG\Desktop\Nam3\Ki2\DoAnLTM\App\App\obj\Debug\App.csproj.SuggestedBindingRedirects.cache
+C:\Users\ROG\Desktop\Nam3\Ki2\DoAnLTM\App\App\obj\Debug\App.Main.resources
+C:\Users\ROG\Desktop\Nam3\Ki2\DoAnLTM\App\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\ROG\Desktop\Nam3\Ki2\DoAnLTM\App\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\ROG\Desktop\Nam3\Ki2\DoAnLTM\App\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\Nam3\Ki2\DoAnLTM\App\App\obj\Debug\App.exe
+C:\Users\ROG\Desktop\Nam3\Ki2\DoAnLTM\App\App\obj\Debug\App.pdb
+C:\Users\94ngu\source\repos\ClientDoAnLTM\DoAnLTM\App\App\bin\Debug\App.exe.config
+C:\Users\94ngu\source\repos\ClientDoAnLTM\DoAnLTM\App\App\bin\Debug\App.exe
+C:\Users\94ngu\source\repos\ClientDoAnLTM\DoAnLTM\App\App\bin\Debug\App.pdb
+C:\Users\94ngu\source\repos\ClientDoAnLTM\DoAnLTM\App\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\94ngu\source\repos\ClientDoAnLTM\DoAnLTM\App\App\obj\Debug\App.csproj.SuggestedBindingRedirects.cache
+C:\Users\94ngu\source\repos\ClientDoAnLTM\DoAnLTM\App\App\obj\Debug\App.Main.resources
+C:\Users\94ngu\source\repos\ClientDoAnLTM\DoAnLTM\App\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\94ngu\source\repos\ClientDoAnLTM\DoAnLTM\App\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\94ngu\source\repos\ClientDoAnLTM\DoAnLTM\App\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\94ngu\source\repos\ClientDoAnLTM\DoAnLTM\App\App\obj\Debug\App.exe
+C:\Users\94ngu\source\repos\ClientDoAnLTM\DoAnLTM\App\App\obj\Debug\App.pdb
+C:\Users\94ngu\source\repos\ClientDoAnLTM\DoAnLTM\App\App\obj\Debug\App.FormConnect.resources
+C:\Users\94ngu\source\repos\LapTrinhMangDoAnCuoiKi\DoAnLTM_16_4_Client\DoAnLTM\App\App\bin\Debug\App.exe.config
+C:\Users\94ngu\source\repos\LapTrinhMangDoAnCuoiKi\DoAnLTM_16_4_Client\DoAnLTM\App\App\bin\Debug\App.exe
+C:\Users\94ngu\source\repos\LapTrinhMangDoAnCuoiKi\DoAnLTM_16_4_Client\DoAnLTM\App\App\bin\Debug\App.pdb
+C:\Users\94ngu\source\repos\LapTrinhMangDoAnCuoiKi\DoAnLTM_16_4_Client\DoAnLTM\App\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\94ngu\source\repos\LapTrinhMangDoAnCuoiKi\DoAnLTM_16_4_Client\DoAnLTM\App\App\obj\Debug\App.csproj.SuggestedBindingRedirects.cache
+C:\Users\94ngu\source\repos\LapTrinhMangDoAnCuoiKi\DoAnLTM_16_4_Client\DoAnLTM\App\App\obj\Debug\App.FormConnect.resources
+C:\Users\94ngu\source\repos\LapTrinhMangDoAnCuoiKi\DoAnLTM_16_4_Client\DoAnLTM\App\App\obj\Debug\App.Main.resources
+C:\Users\94ngu\source\repos\LapTrinhMangDoAnCuoiKi\DoAnLTM_16_4_Client\DoAnLTM\App\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\94ngu\source\repos\LapTrinhMangDoAnCuoiKi\DoAnLTM_16_4_Client\DoAnLTM\App\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\94ngu\source\repos\LapTrinhMangDoAnCuoiKi\DoAnLTM_16_4_Client\DoAnLTM\App\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\94ngu\source\repos\LapTrinhMangDoAnCuoiKi\DoAnLTM_16_4_Client\DoAnLTM\App\App\obj\Debug\App.exe
+C:\Users\94ngu\source\repos\LapTrinhMangDoAnCuoiKi\DoAnLTM_16_4_Client\DoAnLTM\App\App\obj\Debug\App.pdb
