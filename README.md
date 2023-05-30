@@ -1,4 +1,6 @@
-Sản phẩm của sinh viên.
+# Sản phẩm của sinh viên
+
+Trò chơi Bầu Cua 2023.
 
 Đầu tiên, mở server và nhập số người chơi, sau đó ấn Bắt đầu chơi.
 
