@@ -1,4 +1,5 @@
 Sản phẩm của sinh viên
+
 Đầu tiên, mở server và nhập số người chơi, sau đó ấn Bắt đầu chơi
 Sau đó, mở số lượng client app bằng với số người chơi, sau đó ấn vào cục xúc xắc để chơi
 Hệ thống sẽ đợi đủ số người chơi vào mới bắt đầu chơi
