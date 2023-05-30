@@ -1,6 +1,4 @@
-# Sản phẩm của sinh viên
-
-Trò chơi Bầu Cua 2023.
+# Trò chơi Bầu Cua 2023.
 
 Đầu tiên, mở server và nhập số người chơi, sau đó ấn Bắt đầu chơi.
 
@@ -15,3 +13,5 @@ Trong khi đó, Server sau khi nhận được tiền cược sẽ xóc bài, v�
 Sau khi nhận được kết quả, trong 3 giây hệ thống sẽ cập nhật số tiền cho client.
 
 Client tiếp tục chơi.
+
+Sản phẩm của sinh viên.
